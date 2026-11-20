@@ -1,0 +1,16 @@
+instrument;abbreviation;MIDI_program;instrument_family;is_unpitched_drum
+Flute;fl;73;Woodwind;0
+Oboe;ob;68;Woodwind;0
+Clarinet;cl;71;Woodwind;0
+Bassoon;bsn;70;Woodwind;0
+Contrabassoon;cbsn;70;Woodwind;0
+Trumpet;tp;56;Brass;0
+French Horn;frh;60;Brass;0
+Alto Trombone;atb;57;Brass;0
+Tenor Trombone;ttb;57;Brass;0
+Bass Trombone;btb;57;Brass;0
+Violin;vl;40;Strings;0
+Viola;va;41;Strings;0
+Violoncello;vc;42;Strings;0
+Contrabass;cb;43;Strings;0
+Timpani;timp;47;Pitched Percussion;0
